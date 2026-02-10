@@ -1,3 +1,6 @@
+![Live Demo](https://img.shields.io/badge/Live-Demo-orange)](https://huggingface.co/spaces/pavellakov/video-compressor)
+
+
 # 🎬 Video Compressor (ffmpeg + Gradio)
 
 This project is a **simple video compression tool** built with [Gradio](https://gradio.app) for the user interface and [FFmpeg](https://ffmpeg.org/) for the actual compression.  
