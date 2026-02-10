@@ -1,5 +1,4 @@
-![Live Demo](https://img.shields.io/badge/Live-Demo-orange)](https://huggingface.co/spaces/pavellakov/video-compressor)
-
+https://huggingface.co/spaces/pavellakov/video-compressor
 
 # 🎬 Video Compressor (ffmpeg + Gradio)
 
